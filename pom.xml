@@ -28,12 +28,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://http://34.227.91.218:8081//repository/batch12-sanpshot/</url>
+		    <url>http://http://34.227.91.218:8081/repository/saikiran-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://http://34.227.91.218:8081//repository/batch12-release/</url>
+		    <url>http://http://34.227.91.218:8081/repository/saikiran-release/</url>
 		</repository>
   	</distributionManagement>
 	
